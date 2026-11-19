@@ -1,7 +1,7 @@
 
 # Hi, I'm Dinora! 👋
 
-### 💻 Full Stack Developer
+
 
 Welcome to my GitHub profile!
 
